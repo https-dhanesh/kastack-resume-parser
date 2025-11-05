@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+supabase
+pymongo
+pdfminer.six
+python-docx
+python-multipart
+requests
+PyMuPDF
