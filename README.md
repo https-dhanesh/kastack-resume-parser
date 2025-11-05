@@ -237,21 +237,21 @@ Asks a natural language question about a specific candidate.
 
 
 **1. Successful Upload in FastAPI Docs:**
-![FastAPI Upload Success 1 ](1.png)
-![FastAPI Upload Success 2 ](2.png)
-![FastAPI Upload Success 3 ](3.png)
-![FastAPI Upload Success 4 ](4.png)
+![FastAPI Upload Success 1 ](images/1.png)
+![FastAPI Upload Success 2 ](images/2.png)
+![FastAPI Upload Success 3 ](images/3.png)
+![FastAPI Upload Success 4 ](images/4.png)
 
 **2. MongoDB Data Explorer:**
-![MongoDB Data 1 :](8.png)
-![MongoDB Data 2 :](9.png)
+![MongoDB Data 1 :](images/8.png)
+![MongoDB Data 2 :](images/9.png)
 
 **3. Supabase Storage Bucket:**
-![Supabase Storage](10.png)
+![Supabase Storage](images/10.png)
 
 **4. Supabase Metadata Table:**
-![Supabase Table](7.png)
+![Supabase Table](images/7.png)
 
 **5. Q&A Endpoint (`/ask`) Success:**
-![FastAPI Q&A Success 1 : ](5.png)
-![FastAPI Q&A Success 2 : ](6.png)
+![FastAPI Q&A Success 1 : ](images/5.png)
+![FastAPI Q&A Success 2 : ](images/6.png)
