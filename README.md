@@ -1,6 +1,6 @@
-# FastAPI Resume Parsing API
+# FastAPI Resume Parser
 
-This project is a complete, end-to-end API built with FastAPI for the KaStack Data Engineer internship task. The application accepts resume uploads (.pdf, .docx), parses the content using a powerful Hugging Face LLM, stores the raw file in Supabase, stores the extracted data in MongoDB, and provides API endpoints to query the data.
+This project is a complete, end-to-end API built with FastAPI. The application accepts resume uploads (.pdf, .docx), parses the content using a powerful Hugging Face LLM, stores the raw file in Supabase, stores the extracted data in MongoDB, and provides API endpoints to query the data.
 
 ## 🏛️ Project Architecture
 
